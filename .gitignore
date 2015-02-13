@@ -1,5 +1,9 @@
 platforms/
 plugins/
+.env*
+*.zip
+*.tgz
+*.tar
 *~
 .\#*
 \#*\#

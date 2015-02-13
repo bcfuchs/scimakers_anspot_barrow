@@ -1,0 +1,7 @@
+platforms/
+plugins/
+*~
+.\#*
+\#*\#
+.DS_Store
+.project
